@@ -1,0 +1,180 @@
+Initialize engine version: 5.6.0b3 (358ff4ed3952)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e1)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   10.18.13.6871
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.TestRunner.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\UnityEngine.TestRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\nunit.framework.dll into Unity Child Domain
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.480 seconds
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Zach\Documents\GitHub\Photon Tutorial\app_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Scripts') is missing!
+ 
+(Filename:  Line: 1746)
+
+UnloadTime: 1.681101 ms
+Nickname: Frank userID: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+getting previous room from prefs: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ReJoining previous room: b5b6e74b-5273-42d6-bd8f-3610174dfde9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 226: ReturnCode: 32758 (Game does not exists). Parameters: {} Server: GameServer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonJoinRoomFailed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonRandomJoinFailed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting for another player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joined room: 2f435fe1-b486-4948-87e2-23e447a19f5e
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Other player arrived
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 1 action: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Frank' (master) turn: 1 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 2 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Frank' (master) turn: 2 action: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 3 action: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Frank' (master) turn: 3 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 4 action: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Frank' (master) turn: 4 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 5 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnTimeEnds: Calling OnTurnCompleted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Frank' (master) turn: 6 action: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnFinished: 'Ted'  turn: 6 action: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnCompleted: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTurnBegins() turn: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4610 -> priority: 1 
+  Thread -> id: 4be4 -> priority: 1 
